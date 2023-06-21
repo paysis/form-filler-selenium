@@ -15,7 +15,7 @@ import concurrent.futures
 
 _POOL_SIZE = 1
 _CSV_LOCATION = "./file.csv"
-_TARGET_HOMEPAGE = "https://foerderportal.dosb.de/gutscheinaktion/sportvereinsscheck/"
+_TARGET_HOMEPAGE = "https://.../"
 _TEMP_MAIL_PROVIDER = "https://gecicimail.com.tr/"
 
 _SAVE_DIRECTORY = r"xd/"
